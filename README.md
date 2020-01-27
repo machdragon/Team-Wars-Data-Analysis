@@ -15,6 +15,10 @@ https://youtu.be/W15YCVEc-Jg
 Match Report Sheets Advanced in depth explanation of functionality and processes
 https://youtu.be/ZW4DYuNOPKk
 
+Match Reports should be named in the format of "Match Report WXGY" where X is the current week and where Y is the corresponding game #
+Blank Match Reports have been created up to Week 10, please fill in those Match Reports instead of creating new ones
+Unhide them from the bottom left and add edits to those - Jan 27
+
 Reminder to change DC Loss or DQ Loss etc back to W/L on the match report Google Sheets after screenshot of the match report has been taken and posted to the match reports channel in Discord, as the aggregation counts # of capital W or L
 
 If Skill or Deck Types do not show up in the dropdown list:

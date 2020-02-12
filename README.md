@@ -49,5 +49,24 @@ Sorts by: Most wins, Least losses, Highest WPM, Highest Played then, A-Z Player 
 Division Standings sorted by
 Sorts by: Most Points (3x wins), Highest Round Difference, Head to Head
 
+to make the week 8 meta analysis you want to
+In: TW S6 Match Reports
+1. make sure week 8 master exists
+2. change the range of the pivot table on the error checking sheet to week 8 master for week 7 master
+3. if you check the filters have no errors, and that the numbers across decks and skills all match
+In: TW S6 Player Records (step 4 optional but it has to be done by someone anyway)
+4. add the importrange for week 8
+In: TWS36CleanData.csv
+5. duplicate the TWS36CleanData.csv sheet to make a backup, and name it today's date
+6. from week 8 master that has been checked for errors, copy and paste the 1st and 2nd columns as values below the week 7 data (we don't include the discord id column when pasting), 
+7. then copy and paste regularly the rest of the columns below the week 7 data (can click a column to select the whole thing and hold shift to select multiple columns, then copy it)
+8. delete the header row that you don't need, (the extra 1st row with describing the data) and select more than 2 cells in the Season 6 column to drag down until it reaches the end of the data you pasted in (selecting 2 cells with numbers when dragging it will duplicate the numbers Season 6, 6, 6, 6 instead of increasing Season 6, 7, 8, 9 etc)
+Actually doing the meta analysis:
+9. once the above steps are completed, graphics table master will have a space with checkboxes at the bottom (may need to unhide) which controls which weeks are filtered, click to add checkmarks to select the weeks you want
+9. b hide the rows after you're done to download a pdf of the sheet on A4 paper
+10. the dropdown list of each of the deck types are controlled by the pivot table on the count of decks sheet, change the filters on that to the weeks you selected and I normally do the order of the decks in the matchup player by most-least played
+11. all graphics matchup table, here you select all decks played instead of top 10 in the previous one
+12. the data on all graphics matchup table is sent to pie chart sheet
+
 # Uploading files... work in progress...
 

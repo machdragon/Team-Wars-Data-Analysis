@@ -12,7 +12,7 @@ https://youtu.be/hssqArMdK10
 Player Records Sheets Advanced in depth explanation of functionality and processes
 https://youtu.be/W15YCVEc-Jg
 
-Match Report Sheets Advanced in depth explanation of functionality and processes
+Match Up Table Advanced in depth explanation of functionality and processes
 https://youtu.be/ZW4DYuNOPKk
 
 Match Reports should be named in the format of "Match Report WXGY" where X is the current week and where Y is the corresponding game #

@@ -21,6 +21,8 @@ https://youtu.be/W15YCVEc-Jg
 Match Up Table Advanced in depth explanation of functionality and processes
 https://youtu.be/ZW4DYuNOPKk
 
+You can update formulas directly in Google Sheets or copy and paste it into a text editor to edit then pasting it back into the sheet after you're done. I like to use Notepad++ because you can set the language to Visual Basic and the highlighting makes it easier to read
+
 Match Reports should be named in the format of "Match Report WXGY" where X is the current week and where Y is the corresponding game #
 Blank Match Reports have been created up to Week 10, please fill in those Match Reports instead of creating new ones
 Unhide them from the bottom left and add edits to those - Jan 27

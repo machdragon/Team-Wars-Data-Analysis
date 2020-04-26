@@ -3,6 +3,12 @@ Data Analysis Workflow for the Duel Links Team Wars League
 
 Refer to pinned message in # analyst team channel in Discord for access to the Google Sheets
 
+Team Wars Data Session Where I talk about all the sheets again in detail
+https://youtu.be/WFRh6PK_QAQ
+
+Quick Notes about the Matchup Table
+https://youtu.be/395c_ngE4Ts
+
 Match Report Tutorial Beginner/If you need a refresher
 https://youtu.be/Kl3CeUH4GWU
 
@@ -40,7 +46,7 @@ If players do not show up in the dropdown list:
   a. If you type the player name, then it gets highlighted in yellow, that means there is a duplicate player name
   so add that player into the player database as “[team name abbreviation] player name” if they are on a different team
   b. otherwise if they are on the same team please use the name already listed
-3. if they are not then you can add that player to the database by following the link in the importrange 2 cells left of the team name
+3. if they are not then you can add that player to the database
   a. locate the sheet that player is on and enter their player name and Discord User ID
 
 Player Records sorted by

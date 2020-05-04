@@ -57,6 +57,14 @@ Sorts by: Most wins, Least losses, Highest WPM, Highest Played then, A-Z Player 
 Division Standings sorted by
 Sorts by: Most Points (3x wins), Highest Round Difference, Head to Head
 
+If a sheet becomes unlinked due to someone renaming/replacing a copy of a sheet already created: 
+For example Match Report W1G5 becomes unlinked from Match Report Master (we can see this by the sheet name showing up as black/grayed out text and error message appears)
+1. We have to rename the current G5 sheet to "G5 old"
+2. Create a new sheet from master and paste the data from old to "G5 new"
+3. Then link G5 new to the master by replacing "G5" with "G5 new" in the importrange
+4. Then we can rename the "G5 new" sheet back to "G5" and delete "G5 old"
+5. Check the importrange now correctly displays G5 data
+
 to make the week 8 meta analysis you want to
 In: TW S6 Match Reports
 1. make sure week 8 master exists
